@@ -2,13 +2,13 @@
   "name": "bee-logger",
   "version": "1.0.0",
   "description": "Node adapter for Bee-Logger.com",
-  "main": "index.js",
+  "main": "logger.js",
   "scripts": {
     "test": "test"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/syncode/bee-logger-npm.git"
+    "url": "git+https://github.com/syncode/Bee-Logger-npm.git"
   },
   "keywords": [
     "log",
@@ -18,7 +18,7 @@
   "author": "Syncode Software Ltd.",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/syncode/bee-logger-npm/issues"
+    "url": "https://github.com/syncode/Bee-Logger-npm/issues"
   },
-  "homepage": "https://github.com/syncode/bee-logger-npm#readme"
+  "homepage": "https://github.com/syncode/Bee-Logger-npm#readme"
 }
